@@ -1,0 +1,165 @@
+Configuración IP de Windows
+
+    user-images.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 162
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 162
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 162
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 162
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.133
+
+
+    static-ecst.licdn.com
+    ----------------------------------------
+    Nombre de registro  . : static-ecst.licdn.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 826
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs1404.wpc.epsiloncdn.net
+
+
+    Nombre de registro  . : cs1404.wpc.epsiloncdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 826
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 152.199.24.163
+
+
+    www.kutxabank.es
+    ----------------------------------------
+    Nombre de registro  . : www.kutxabank.es
+    Tipo de registro  . . : 1
+    Período de vida . . . : 322
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 212.142.161.22
+
+
+    mssplus.mcafee.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    mssplus.mcafee.com
+    ----------------------------------------
+    Nombre de registro  . : mssplus.mcafee.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 0
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.1
+
+
+    1.0.0.0.in-addr.arpa
+    ----------------------------------------
+    Nombre de registro  . : 1.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 0
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : mssplus.mcafee.com
+
+
+    avatars.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 733
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8000::154
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 733
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8001::154
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 733
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8002::154
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 733
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8003::154
+
+
+    avatars.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1609
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1609
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1609
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1609
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.133
+
+
+    array507.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array507.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2774
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.184.217.20
